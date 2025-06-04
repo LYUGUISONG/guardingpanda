@@ -1,0 +1,11 @@
+{
+  "name": "Panda Dev Env",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
+  "features": {},
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint"]
+    }
+  }
+}
