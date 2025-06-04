@@ -1,0 +1,17 @@
+{
+  "name": "guardingpanda",
+  "version": "1.0.0",
+  "description": "\u4f01\u4e1a\u5b98\u7f51\u793a\u4f8b",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
